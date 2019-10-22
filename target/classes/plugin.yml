@@ -1,0 +1,14 @@
+name: OwnBlock
+main: iKguana.ownblock.OwnBlock
+version: "1.0.0"
+
+api: "1.0.0"
+
+auther: iKguana
+
+commands:
+ ob:
+  usage: "/ob"
+  description: "Observer mode"
+  permission: "op"
+  
